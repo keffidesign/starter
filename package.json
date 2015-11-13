@@ -1,0 +1,23 @@
+{
+  "name": "starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "starter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "starter": "starter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keffidesign/starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keffidesign/starter/issues"
+  },
+  "homepage": "https://github.com/keffidesign/starter#readme",
+  "license": "MIT"
+}

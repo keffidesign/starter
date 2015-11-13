@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import config from './starter.config.js';
 import https from 'https';
 import fs from 'fs';
